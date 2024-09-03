@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(135deg, #fafafa 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, #fafafa 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, #fafafa 25%, transparent 25%),
+    linear-gradient(45deg, #fafafa 25%, transparent 25%);
+  background-size: 100px 100px;
+  background-color: #e0f7fa;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
